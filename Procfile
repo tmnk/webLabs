@@ -1,1 +1,1 @@
-web: node 06\ -\ logs/app.js
+web: node 06\ -\ logs/index.js
